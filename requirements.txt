@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+PySide6
+geopandas
+shapely
+contextily
+pyproj
+fiona
+rasterio
+pyinstaller
